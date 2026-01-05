@@ -1,82 +1,41 @@
 # 👋 Hi, I'm Ali Baran Şenol
 
-🚀 Software Engineer | Computer Engineering Student
-
-I’m a **Computer Engineering undergraduate** at **Eskişehir Technical University**, with a strong focus on **front-end web development**, especially using **JavaScript and Vue.js**. I enjoy building responsive, data-driven user interfaces and integrating them seamlessly with backend APIs.
-
-I have hands-on experience with **real-time dashboards, interactive maps, and full-stack integrations**, and I actively apply my skills in both personal and team-based projects.
+**Software Engineer | Computer Engineering Student** 📍 Odunpazarı, Eskişehir, Türkiye  
+📧 [business.alibaransenol@gmail.com](mailto:business.alibaransenol@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/abaransenol) | [GitHub](https://github.com/abaransenol) | [Website](https://abaransenol.tech)
 
 ---
 
-## 🧑‍💻 About Me
-- 💻 Front-end focused developer with strong **Vue.js (Vue 3)** experience  
-- 📊 Interested in **real-time data visualization** and **UI/UX performance**
-- 🗺️ Built interactive map-based applications using **Vue-Leaflet**
-- 🔌 Comfortable integrating frontends with **REST APIs**
-- 🤝 Team experience from **Teknofest Efficiency Challenge** projects
-- 📚 Always learning and improving modern frontend architectures
+## 🎓 Education
+
+**Eskişehir Technical University** | Eskişehir, Türkiye  
+*B.S. in Computer Engineering*  
+*Sep 2023 – Present* | *Expected Graduation: 2028*
+- **GPA:** 3.87/4.00  
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Experience
 
-### Front-End
-- **JavaScript (ES6+)**
-- **Vue.js** (Vue 3, Options API & Composition API)
-- TailwindCSS
-- ApexCharts
-- Vue-Leaflet
+**Hidroana - Hydrogen Powered Vehicle Team** | Eskişehir, Türkiye  
+*Software Engineer* | *Oct 2024 – Sep 2025*
 
-### Backend & Integration
-- Node.js
-- Express.js
-- RESTful APIs
-- Session-based authentication
-
-### Other Tools & Experience
-- Git & GitHub
-- Docker (basic usage)
-- Flutter (cross-platform mobile apps)
-- PySide6 (desktop GUI development)
-- Raspberry Pi (resource-constrained environments)
+- Created a comprehensive traffic sign dataset by merging and preprocessing open-source data from Kaggle, ensuring balanced distribution for optimal model training.
+- Trained and deployed a real-time computer vision model for traffic sign detection, optimized for high performance on embedded systems with limited processing power.
+- Implemented a chunk-based processing pipeline for real-time camera feeds to ensure zero data loss during image acquisition and processing.
+- Developed a cross-platform mobile application (Flutter) to visualize real-time telemetry data fetched from the server via a modern user interface.
+- Built a responsive web dashboard (Vue.js) featuring dynamic charts and analytics to monitor vehicle performance and sensor data in real-time.
+- Secured the web application by designing and implementing a JWT-based authentication system for secure user access.
+- Deployed the full-stack web application and authentication services in a cloud environment.
 
 ---
 
-## 💼 Experience & Projects
+## 🛠 Skills & Interests
 
-### Front-End Web Development (Project-Based)
-- Developed **real-time dashboards** using Vue.js and ApexCharts  
-- Implemented **dynamic chart annotations** (e.g. real-time averages)
-- Built **interactive maps** to visualize GPS and navigation data
-- Designed responsive and maintainable UI components
-
-### Full-Stack Applications
-- Created Vue.js web frontends connected to **Node.js + Express** backends
-- Integrated APIs for live data updates and telemetry
-- Worked on **state management and frontend data flow**
-
-### Teknofest – Prototype Vehicle Team
-- Contributed to **frontend visualization tools** for vehicle telemetry
-- Visualized outputs from **YOLO-based traffic sign detection**
-- Helped design UI solutions for in-vehicle displays
-- Collaborated in a multidisciplinary engineering team
-
----
-
-## 📌 Interests
-- Front-End Architecture
-- UI/UX Design
-- Data Visualization
-- Web Performance Optimization
-- Real-time Web Applications
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/abaransenol
-- LinkedIn: https://linkedin.com/in/abaransenol
-- Email: business.alibaransenol@gmail.com
-
----
+- **Languages:** Turkish (Native), English (Upper Intermediate / B2)
+- **Programming:** Java, JavaScript, Dart, Python, SQL
+- **Frameworks & Libraries:** Vue.js, Flutter, Node.js, Express.js
+- **Tools & Platforms:** Git, GitHub, Cloud Services, Embedded Systems
+- **Professional Interests:** Backend Development, System Design, AI Tools, Mobile Application Development
 
 ⭐ *Feel free to check out my repositories and projects!*
